@@ -32,7 +32,7 @@ $(function(){
     $('#enlace-equipo').on('click',function(e){
         e.preventDefault();
         $('html, body').animate({
-            scrollTop: equipo 
+            scrollTop: equipo -100
         },600);
     });
 
@@ -53,7 +53,7 @@ $(function(){
     $('#enlace-contacto').on('click',function(e){
         e.preventDefault();
         $('html, body').animate({
-            scrollTop: contactos -100
+            scrollTop: contacto -100
         },600);
     });
 });

@@ -121,7 +121,7 @@ header{
   rgba(7,109,150, .45),
   rgba(211,135,20, .6),
   rgba(29,241,171, .6)
-  ), url(/img/fondo.jpg);
+  ), url(/misitioweb/img/fondo.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -381,7 +381,7 @@ nav .enlaces a:hover{
 }
 
 .footer{
-  background: url(/img/teclado.jpg);
+  background: url(/misitioweb/img/teclado.jpg);
   height: auto;
 }
 
